@@ -1,10 +1,15 @@
-,
-# C# Game Launcher Tutorial
-This is the source code for the launcher that we build in my [game launcher tutorial](https://youtu.be/JIjZQo03YdA) on YouTube.
+# Game Launcher Example
+C# &amp; Windows Forms
 
-**Note:** in order for this to work you will need to replace the download links in the MainWindow.xaml.cs file. If you're hosting files on Google Drive like we did in the tutorial, you can use [this](https://sites.google.com/site/gdocs2direct/) to convert sharing links into direct-download links.
+Thanks to Tom Weiland for creating C# Game Launcher and Bevouliin for images. I added some stuffs.
 
-[YouTube Channel](https://tomweiland.net/youtube)\
-[My Blog](https://tomweiland.net/)\
-[Instagram](https://tomweiland.net/instagram)\
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21O02J)
+Source code : https://github.com/tom-weiland/csharp-game-launcher
+
+Used images : https://opengameart.org/content/marshmallow-with-earphones
+
+Source code changed and updated. List of changes:
++ Re-designed for Windows Forms
++ Added Progress Bar
++ Added Text for Progress Bar's status.
++ Added Languages	
++ Added Update Logs
