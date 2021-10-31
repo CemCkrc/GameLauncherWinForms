@@ -13,3 +13,5 @@ Source code changed and updated. List of changes:
 + Added Text for Progress Bar's status.
 + Added Languages	
 + Added Update Logs
+
+https://cemckrc.files.wordpress.com/2021/10/gametitlelauncher.png
