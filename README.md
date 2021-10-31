@@ -13,3 +13,5 @@ Source code changed and updated. List of changes:
 + Added Text for Progress Bar's status.
 + Added Languages	
 + Added Update Logs
+
+![gametitlelauncher](https://user-images.githubusercontent.com/43264365/139593366-b90224f4-5316-43dc-b78c-9441831a9738.png)
